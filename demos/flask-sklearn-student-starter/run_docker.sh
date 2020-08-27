@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image
-docker build --tag=demolocal
+docker build --tag=demolocal .
 
 # Step 2: 
 # List docker images
